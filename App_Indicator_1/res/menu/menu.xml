@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/random" android:title="@string/settings_random"/>
+    <item android:id="@+id/add_page" android:title="@string/settings_add"/>
+    <item android:id="@+id/remove_page" android:title="@string/settings_remove"/>
+    <item android:id="@+id/dummy" android:title="@string/settings_dummy" />
+    <item android:id="@+id/day_night" android:title="@string/settings_change"/>
+</menu>

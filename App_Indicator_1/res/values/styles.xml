@@ -1,0 +1,61 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+    -->
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+        
+    <style name="Standard">
+		<item name="android:layout_width">wrap_content</item>
+		<item name="android:layout_height">wrap_content</item>
+    </style>
+	
+	<style name="Standard.Splash">
+		<item name="android:foreground">@drawable/logo6</item>
+		<item name="android:layout_gravity">center</item>
+	</style>
+	
+<!-- 	The following styles are copied from the Honeycomb Samkple application -->
+	
+	
+<!-- 	 <style name="ActionBar" parent="@android:style/Widget.Holo.ActionBar" /> -->
+
+<!--     <style name="ActionBar.Light" parent="@style/ActionBar"> -->
+<!--         <item name="android:background">@color/actionbar_background_light</item> -->
+<!--     </style> -->
+
+<!--     <style name="ActionBar.Dark" parent="@style/ActionBar"> -->
+<!--         <item name="android:background">@color/actionbar_background_dark</item> -->
+<!--     </style> -->
+
+<!--     <style name="AppTheme.Light" parent="@android:style/Theme.Holo.Light"> -->
+<!--         <item name="android:actionBarStyle">@style/ActionBar.Light</item> -->
+<!--         <item name="android:windowActionBarOverlay">true</item> -->
+<!--         <item name="listDragShadowBackground">@android:color/background_light</item> -->
+<!--         <item name="menuIconCamera">@drawable/ic_menu_camera_holo_light</item> -->
+<!--         <item name="menuIconToggle">@drawable/ic_menu_toggle_holo_light</item> -->
+<!--         <item name="menuIconShare">@drawable/ic_menu_share_holo_light</item> -->
+<!--     </style> -->
+
+<!--     <style name="AppTheme.Dark" parent="@android:style/Theme.Holo"> -->
+<!--         <item name="android:actionBarStyle">@style/ActionBar.Dark</item> -->
+<!--         <item name="android:windowActionBarOverlay">true</item> -->
+<!--         <item name="listDragShadowBackground">@android:color/background_dark</item> -->
+<!--         <item name="menuIconCamera">@drawable/ic_menu_camera_holo_dark</item> -->
+<!--         <item name="menuIconToggle">@drawable/ic_menu_toggle_holo_dark</item> -->
+<!--         <item name="menuIconShare">@drawable/ic_menu_share_holo_dark</item> -->
+<!--     </style> -->
+
+</resources>

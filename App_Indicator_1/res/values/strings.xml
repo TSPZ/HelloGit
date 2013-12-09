@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Fotografie+Design</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Projekte</string>
+    <string name="splash_text">Jasmin Zwick</string>
+    <string name="titel_series">Kapellen</string>
+    <string name="list_view_with_search">List View with Search</string>
+    <string name="project_name">Fotoserie</string>
+    <string name="lorem_ipsum">lorem_ipsum</string>
+    
+     <string name="settings_random">Random</string>
+     <string name="settings_add">Add Page</string>
+     <string name="settings_remove">Remove Page</string>
+     <string name="settings_dummy">Dummy Function</string>
+     <string name="settings_change">Change Style</string>
+    
+    
+    
+    
+</resources>

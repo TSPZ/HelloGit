@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="People">
+        <item >Judy Millar</item>
+        <item >Lamia Choucair</item>
+        <item >Nir Stern</item>
+        <item >Clara Balaguer</item>
+        <item >Sharlene Garcia</item>
+        <item >Marcy Meachin</item>
+    </string-array>
+    
+    <integer-array name ="Primzahlen">
+        <item>1</item>
+        <item>3</item>
+        <item>5</item>
+        <item>7</item>
+        <item>11</item>
+        <item>13</item>
+    </integer-array>
+    
+    <string-array name = "Zimmerpflanzen">
+        <item>Monstera</item>
+        <item>Fikus</item>
+        <item>Gummibaum</item>
+        <item>Grünlilie</item>
+        <item>Stechpalme</item>
+    </string-array>
+    
+</resources>
